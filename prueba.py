@@ -1,6 +1,6 @@
 def cifrar(texto, desplazamiento):
     resultado = ""
-    for caracter in texto:
+    for caracter in textos:
         if 'a' <= caracter.lower() <= 'z':
             inicio = ord('a')
             if 'A' <= caracter <= 'Z':
