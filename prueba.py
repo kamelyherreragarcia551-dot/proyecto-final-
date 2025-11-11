@@ -16,7 +16,7 @@ def cifrar(texto, desplazamiento):
 mensaje_original = input("Ingresa el texto para codificar: ")
 desplazamiento_str = input("Ingresa el número de desplazamiento (por ejemplo, 3): ")
 
-# Convertir el desplazamiento a un número entero  hola como esta.
+# Convertir el desplazamiento a un número entero  hola como .
 try:
     desplazamiento_clave = int(desplazamiento_str)
     
