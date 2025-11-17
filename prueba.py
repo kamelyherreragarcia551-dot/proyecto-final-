@@ -12,7 +12,7 @@ def cifrar(texto, desplazamiento):
         else:
             resultado += caracter
     return resultado
-# Pedir al usuario que ingrese el texto y el número de desplazamiento hi
+# Pedir al usuario que ingrese el texto y el número de desplazamiento hi hi
 mensaje_original = input("Ingresa el texto para codificar: ")
 desplazamiento_str = input("Ingresa el número de desplazamiento (por ejemplo, 3): ")
 
